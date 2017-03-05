@@ -1,1 +1,1 @@
-console.log("this is what I am expecting");
+console.log("this is what I am expecting with webpack live reloading");
